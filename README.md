@@ -239,7 +239,7 @@ Here is a reference image in courtesy of adafruit.
 
 ### Almost time to wrap it all up!
 
-#### IF YOU WANT TO USE ACRYLICS CASE, STOP AND CLICK BELOW
+#### IF YOU WANT TO INSTALL ACRYLICS CASE, STOP AND CLICK BELOW
 
 
 <details>
