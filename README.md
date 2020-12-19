@@ -269,4 +269,5 @@ Plug in the USB cable once again at this point and ensure everything checks out.
 
 ![finished](https://github.com/doodboard/tutorial/blob/main/finished.jpg)
 
-Place the bottom plate in position and screw in the 4 M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
+Place the bottom plate in position and screw in the 4 x M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
+[Here](https://i.imgur.com/bLKk2QL.jpg) is the default keymap 
