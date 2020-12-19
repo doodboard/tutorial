@@ -8,7 +8,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 * [flashing](#flashing)
 * [LEDs](#leds)
 * [diodes](#diodes)
-* [hotswap sockets](#sockets)
+* [hotswap sockets](#hotswap-sockets)
 * [rotary encoder](#encoder)
 * [ProMicro](#promicro)
 * [top plate](#top-plate)
