@@ -99,7 +99,7 @@ You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 <br/>
 
 Plug in your pro micro, and if it doesn't flash automatically, short GND to RST on pro micro twice, fast.
-Use a tweezer or a plier or anything conductive.
+Use a tweezer or pliers or anything conductive.
 
 You should see the following if everything went successfully.
 
@@ -115,7 +115,7 @@ You should see the following if everything went successfully.
 The LEDs are SMD, meaning they are surface mounted, as opposed to through hole mounted. 
 Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
 
-LEDs provide underglow to the duckboard. If you find it too furstrating, it's alright to forego the LEDs. 
+LEDs provide underglow to the duckboard. If you find it too frustrating, it's alright to forego the LEDs. 
 It won't affect the core functionality of duckboard as a macropad.
 
 ![LED1](https://github.com/doodboard/tutorial/blob/main/img/LED_1.jpg)
@@ -136,8 +136,8 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 ![LED3](https://github.com/doodboard/tutorial/blob/main/img/LED_3.jpg)
 
-The finished solder joints should look like the photo above. You are aming for the nice slope of solder, not a blob.
-Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
+The finished solder joints should look like the photo above. You are aiming for the nice slope of solder, not a blob.
+Please make sure you only make contact with the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
 
 <br/>
 <br/>
@@ -151,7 +151,7 @@ Please make sure you only make contact wiht the iron for 2-3 seconds at a time. 
 Nothing fancy here. Align the diodes as shown above, and solder them in. I recommend using flux, but it's not required.
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
 
-If you plan to use stabilisers, pay extra attention to the diodes near stab housings. 
+If you plan to use stabilizers, pay extra attention to the diodes near stab housings. 
 You should clip the diode legs flush to the PCB in order to prevent clearing issue. 
 
 <br/>
@@ -208,8 +208,8 @@ Start working from LED_1. The signal line for LEDs are connected in serial to he
 For example, if none of your LEDs light up, try reflowing LED_1. 
 If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
 
-Default color for LED is RED with default R2 hex file. If some of your LEDs light up in diffrent colour, it's due to corrupted signal caused by bad solder joints.
-If some of your LEDs work, but not in serial, so for insance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
+Default colour for LED is RED with default R2 hex file. If some of your LEDs light up in different colour, it's due to corrupted signal caused by bad solder joints.
+If some of your LEDs work, but not in serial, so for instance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
 
 ![promicro2](https://github.com/doodboard/tutorial/blob/main/img/promicro_2.jpg)
 
@@ -229,7 +229,7 @@ To test without installing switches, short the blue circles if you have the hots
 <br/>
 
 ![good soldering](https://cdn-learn.adafruit.com/assets/assets/000/001/978/large1024/tools_Header_Joints.jpg?1396777967)
-If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look ok.
+If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look OK.
 Here is a reference image in courtesy of adafruit. 
 
 <br/>
@@ -241,18 +241,21 @@ Here is a reference image in courtesy of adafruit.
 
 ![top plate](https://github.com/doodboard/tutorial/blob/main/img/topplate.jpg)
 
-Install stabilisers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
+Install stabilizers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
 
-**IF YOU WANT TO INSTALL ACRYLICS CASE, CLICK BELOW** 
 <details>
-	<summary>Click to expand!</summary>
-grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder it in place. 
-Then put together the Acrylics case by stacking the 5 acrylics plates in order. Insert Pop nut to the bottom 2 plates. Be gentle. 
-If necessary, push it in with a hot soldering iron as demonstrated by Mei [here](https://youtu.be/Av3CXxWuI28)
+	<summary>**IF YOU WANT TO INSTALL ACRYLICS CASE, CLICK ME** </summary>
+
+![component-2](https://github.com/doodboard/tutorial/blob/main/img/component_2.jpg)
+
+grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
+Then insert Pop nut to the bottom 2 plates. Be gentle. If necessary, push it in with a hot soldering iron as demonstrated by Mei [here](https://youtu.be/Av3CXxWuI28)
+Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a small metal tap on the encoder. Manoeuvre around it. 
+
 </details>
 
 Place the 4 screws into the plate, and screw in the shorter standoffs. Then place the top plate onto the PCB, and screw in the longer standoffs.
-You may find it easier to hold the standoffs with a plier while screwing them in place.
+You may find it easier to hold the standoffs with pliers while screwing them in place.
 
 
 <br/>
@@ -268,7 +271,7 @@ Remove the black plastic from the OLED pins. Pull them out gently using your fin
 ![oled2](https://github.com/doodboard/tutorial/blob/main/img/oled_2.jpg)
 Install the OLED in place. Make sure the OLED module is parallel to the top plate, and is oriented correctly before soldering into place.
 
-Plug in the USB cable once again at this point and ensure everything checks out. If you chose to solder the swichtes in directly, now is the time to do so.
+Plug in the USB cable once again at this point and ensure everything checks out. If you chose to solder the switchs in directly, now is the time to do so.
 
 <br/>
 <br/>
