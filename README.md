@@ -146,8 +146,11 @@ Please make sure you only make contact wiht the iron for 2-3 seconds at a time. 
 
 ![diode1](https://github.com/doodboard/tutorial/blob/main/diode_1.jpg)
 
-Nothing fancy here. Align the dioded as shown above, and solder them in. 
+Nothing fancy here. Align the diodes as shown above, and solder them in. 
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
+
+If you plan to use stabilisers, pay extra attention to the diodes near stab housings. 
+You should clip the diode legs flush to the PCB in order to prevent clearing issue. 
 
 <br/>
 <br/>
