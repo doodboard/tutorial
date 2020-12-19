@@ -242,8 +242,18 @@ Here is a reference image in courtesy of adafruit.
 ![top plate](https://github.com/doodboard/tutorial/blob/main/img/topplate.jpg)
 
 Install stabilisers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
+
+**IF YOU WANT TO INSTALL ACRYLICS CASE, CLICK BELOW** 
+<details>
+	<summary>Click to expand!</summary>
+grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder it in place. 
+Then put together the Acrylics case by stacking the 5 acrylics plates in order. Insert Pop nut to the bottom 2 plates. Be gentle. 
+If necessary, push it in with a hot soldering iron as demonstrated by Mei [here](https://youtu.be/Av3CXxWuI28)
+</details>
+
 Place the 4 screws into the plate, and screw in the shorter standoffs. Then place the top plate onto the PCB, and screw in the longer standoffs.
 You may find it easier to hold the standoffs with a plier while screwing them in place.
+
 
 <br/>
 <br/>
@@ -271,4 +281,4 @@ Plug in the USB cable once again at this point and ensure everything checks out.
 
 Place the bottom plate in position and screw in the 4 x M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
 
-[Here](https://i.imgur.com/bLKk2QL.jpg) is the default keymap 
+[Here](https://i.imgur.com/bLKk2QL.jpg) is the default keymap for reference. 
