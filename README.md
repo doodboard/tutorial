@@ -122,7 +122,7 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 <br/>
 
-![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.gif)
+[![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.gif)](https://streamable.com/dimwli "LED soldering - Click to Watch!")
 
 This is how I solder the LEDs.
 1. apply flux to both the PCB and the LED with a brush
@@ -140,6 +140,8 @@ The finished solder joints should look like the photo above. You are aming for t
 Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
 
 
+<br/>
+<br/>
 
 ## diodes
 
