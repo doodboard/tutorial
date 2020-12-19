@@ -86,11 +86,11 @@ r - M3 pop nuts x 4
 
 ### Please flash and test your promicro before starting the build!
 
-You can download the hex file for R2 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
+You can download the **hex file** for R2 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
 
-If you wish to compile your own hex file, you can grab the source code [here](https://github.com/doodboard/source-code)
+If you wish to compile your own hex file, you can grab the **source code** [**here**](https://github.com/doodboard/source-code)
 
-You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
+You can grab **QMK toolbox** from [**here**](https://github.com/qmk/qmk_toolbox)
 
 ![qmk_toolbox1](https://github.com/doodboard/tutorial/blob/main/img/qmk_toolbox_1.jpg)
 
@@ -101,7 +101,7 @@ You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 <br/>
 
 Plug in your pro micro, and if it doesn't flash automatically, **short GND to RST on pro micro twice, fast.**<br/>
-Use a tweezer or pliers or anything else conductive.
+Use a **tweezer** or **pliers** or anything else conductive.
 
 You should see the following if everything went successfully.
 
@@ -114,26 +114,26 @@ You should see the following if everything went successfully.
 
 ### Now we'll work on the LEDs. This is the *toughest* part of the build. 
 
-The LEDs are SMD, meaning they are surface mounted, as opposed to through hole mounted. 
-Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
-I personally prefer flux past, as opposed to flux pens, but it's up to personal preference.
+The LEDs are SMD, meaning they are surface mounted as opposed to through hole mounted. 
+Therefore, using **flux is highly recommended** as it helps solder to flow under the LEDs far more easily.
+I personally prefer flux paste, as opposed to flux pens, but it's up to personal preference.
 
 LEDs provide underglow to the duckboard. If you find it too frustrating, it's **alright** to forego the LEDs. <br/>
 **It won't affect the core functionality of duckboard as a macropad**
 
 ![LED1](https://github.com/doodboard/tutorial/blob/main/img/LED_1.jpg)
 
-LEDs should be positioned as shown above, the small black square inside the LED should line up with the small circle on the PCB.
+LEDs should be positioned as shown above, **the small black square inside the LED should line up with the small circle on the PCB**.
 
 <br/>
 
-[This](https://streamable.com/dimwli) is how I solder the LEDs.
-1. apply flux to both the PCB and the LED with a brush
-2. set the soldering iron to 300C to prevent burning out the LEDs
-3. place LED on the PCB. Make sure it's positioned correctly on the pads.
-4. apply a small amount of solder to the soldering iron
-5. make a short swiping motion perpendicular to the LED
-6. repeat for all 4 pads.
+[**This**](https://streamable.com/dimwli) is how I solder the LEDs.
+1. apply flux to **both** the PCB and the LED with a brush
+2. set the soldering iron to **300C** to prevent burning out the LEDs
+3. place LED on the PCB. Make sure it's positioned** correctly** on the pads.
+4. apply a **small** amount of solder to the soldering iron
+5. make a short swiping motion **perpendicular** to the LED
+6. repeat for all **4** pads.
 
 <br/>
 
@@ -141,6 +141,8 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 The finished solder joints should look like the photo above. You are aiming for the nice slope of solder, not a blob.
 Please make sure you only make contact with the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
+
+In the case that you burn through even the extra LEDs provided, model number is **SK6812 3535 mini**.
 
 <br/>
 <br/>
