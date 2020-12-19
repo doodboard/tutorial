@@ -167,9 +167,20 @@ Again, nothing fancy here. Place the hotswap sockets into the PCB, following the
 If you prefer to solder your switches directly, you can skip this process.
 Depending on if you would like to use duckboard as full 1u macropad, or as standard numpad, you should solder your hotswap sockets accordingly.
 
-## rotary encoder
+<br/>
+<br/>
 
 ## ProMicro
+
+### Now the real fun begins.
+
+![promicro1](https://github.com/doodboard/tutorial/blob/main/promicro.jpg)
+
+a) Solder the legs to ProMicro. 
+b) Solder the ProMicro to the PCB
+c) Cut off the pins as much as you can, without damaging your solder joints.
+
+## rotary encoder
 
 ## top plate
 
