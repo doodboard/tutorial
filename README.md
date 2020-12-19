@@ -122,8 +122,6 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 <br/>
 
-[![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.gif)](https://streamable.com/dimwli "LED soldering - Click to Watch!")
-
 This is how I solder the LEDs.
 1. apply flux to both the PCB and the LED with a brush
 2. set the soldering iron to 300C to prevent burning out the LEDs
@@ -131,6 +129,8 @@ This is how I solder the LEDs.
 4. apply a small amount of solder to the soldering iron
 5. make a short swiping motion perpendicular to the LED
 6. repeat for all 4 pads.
+
+Click [here](https://streamable.com/dimwli) for a video 
 
 <br/>
 
