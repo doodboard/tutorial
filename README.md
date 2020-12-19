@@ -19,7 +19,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 A single duckboard kit includes the following:
 
-![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.JPG)
+![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.jpg)
 
 a - diode x 21 
 
@@ -48,7 +48,7 @@ k - OLED x 1
 
 
 
-![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.JPG)
+![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.jpg)
 
 l - acrylics top plate x 1 
 
@@ -62,7 +62,7 @@ p - acrylics bottom plate x 1
 
 
 
-![component-3](https://github.com/doodboard/tutorial/blob/main/component_3.JPG)
+![component-3](https://github.com/doodboard/tutorial/blob/main/component_3.jpg)
 
 q - M3 16mm screw  x 4 
 
