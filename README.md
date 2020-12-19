@@ -17,7 +17,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 ## components
 
-A single duckboard kit includes the following:
+### A single duckboard kit includes the following:
 
 ![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.jpg)
 
@@ -52,7 +52,7 @@ k - OLED x 1
 <br/>
 <br/>
 
-A single acrylics case kit includes the following:
+### A single acrylics case kit includes the following:
 
 ![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.jpg)
 
