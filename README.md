@@ -29,15 +29,18 @@ c - LEDs x 8
 
 d - kailh hotswap sockets x 21 
 
+
 e - encoder knob x 1 
 
 f - rotary encoder x 1
+
 
 g - top plate x 1 
 
 h - PCB x 1 
 
 i - bottom plate x 1 
+
 
 j - pro micro x 1 
 
