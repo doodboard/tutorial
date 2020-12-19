@@ -86,6 +86,8 @@ r - M3 pop nuts x 4
 
 You can download the hex file for R2 duckboard [here](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
 
+If you wish to compile your own hex file, you can grab the source code [here](https://github.com/doodboard/source-code)
+
 You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 
 ![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
