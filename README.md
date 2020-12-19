@@ -211,15 +211,24 @@ If some of your LEDs work, but not in serial, so for insance LED_1, 2 and 8 ligh
 
 This is the schematic of the LED wiring for reference.
 
+<br/>
+
 ![hotswap2](https://github.com/doodboard/tutorial/blob/main/hotswap_2.jpg)
 
 This is also the perfect time to test your keypresses. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
-Short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
 
+To test without switches, short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
 
+<br/>
+
+If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look ok.
+
+![good soldering](https://cdn-learn.adafruit.com/assets/assets/000/001/978/large1024/tools_Header_Joints.jpg?1396777967)
+Here is a reference image in courtesy of adafruit. 
 
 <br/>
 <br/>
+
 
 ## top plate
 
