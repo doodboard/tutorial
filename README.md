@@ -11,8 +11,8 @@ last update - 19/Dec/2020
 * [LEDs](#leds)
 * [diodes](#diodes)
 * [hotswap sockets](#hotswap-sockets)
-* [rotary encoder](#rotary-encoder)
 * [ProMicro](#promicro)
+* [rotary encoder](#rotary-encoder)
 * [top plate](#top-plate)
 * [OLED](#oled)
 * [assembly](#final-assembly)
@@ -139,8 +139,8 @@ LEDs should be positioned as shown above, **the small black square inside the LE
 
 ![LED3](https://github.com/doodboard/tutorial/blob/main/img/LED_3.jpg)
 
-The finished solder joints should look like the photo above. You are aiming for the nice slope of solder, not a blob.
-Please make sure you only make contact with the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
+The finished solder joints should look like the photo above. You are aiming for the **nice slope of solder**, not a blob.
+Please make sure you only make contact with the iron for **2-3 seconds** at a time. Longer exposure to heat can burn out the LED.
 
 In the case that you burn through even the extra LEDs provided, model number is **SK6812 3535 mini**.
 
@@ -154,7 +154,7 @@ In the case that you burn through even the extra LEDs provided, model number is 
 ![diode1](https://github.com/doodboard/tutorial/blob/main/img/diodes.jpg)
 
 Nothing fancy here. Align the diodes as shown above, and solder them in. I recommend using flux, but it's not required.
-There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
+There are total of **22** diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
 
 If you plan to use stabilizers, pay extra attention to the diodes near stab housings. 
 You should clip the diode legs flush to the PCB in order to prevent clearing issue. 
@@ -175,20 +175,6 @@ Depending on if you would like to use duckboard as full 1u macropad, or as stand
 <br/>
 <br/>
 
-## rotary encoder
-
-### Fun fun fun!
-
-![encoder](https://github.com/doodboard/tutorial/blob/main/img/encoder_1.jpg)
-
-No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
-The two tabs in the middle are for structural purposes only. Apply solder generally. 
-The thinner legs to the top and bottom are malleable. Bend them a little if they need to be in order to fit the PCB.
-
-You can also install the encoder knob now. Align the small screw to the flat face of encoder shaft. Screw it in for stability.
-
-<br/>
-<br/>
 
 ## ProMicro
 
@@ -239,6 +225,25 @@ Here is a reference image in courtesy of adafruit.
 
 <br/>
 <br/>
+
+## rotary encoder
+
+### Fun fun fun!
+
+![encoder](https://github.com/doodboard/tutorial/blob/main/img/encoder_1.jpg)
+
+No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
+The two tabs in the middle are for structural purposes only. Apply solder generally. 
+The thinner legs to the top and bottom are malleable. Bend them a little if they need to be in order to fit the PCB.
+
+You can also install the encoder knob now. Align the small screw to the flat face of encoder shaft. Screw it in for stability.
+
+Plug in the USB cable, and test rotation in both directions, and pressing the encoder shaft in. 
+It should increase/decrease the volume, and mute/unmute your media player.
+
+<br/>
+<br/>
+
 
 ## top plate
 
