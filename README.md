@@ -90,7 +90,7 @@ If you wish to compile your own hex file, you can grab the source code [here](ht
 
 You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 
-![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
+![qmk_toolbox1](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
 
 1. confirm you have downloaded and opened the right HEX file on qmk toolbox
 2. MCU should be set to "atmega32u4"
@@ -101,7 +101,7 @@ Use a tweezer or a plier or anything conductive.
 
 You should see the following if everything went successfully.
 
-![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_2.jpg)
+![qmk_toolbox2](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_2.jpg)
 
 
 <br/>
@@ -110,6 +110,26 @@ You should see the following if everything went successfully.
 ## LEDs
 
 ### Now we'll work on the LEDs. This is the *toughest* part of the build. 
+
+The LEDs are SMD, meaning they are surface mounted, as opposed to through hole mounted. 
+Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
+
+![LED1](https://github.com/doodboard/tutorial/blob/main/LED_1.jpg)
+LEDs should be positioned as shown above, the small black square inside the LED should line up with the small circle on the PCB.
+
+![LED](https://streamable.com/dimwli)
+
+This is how I solder the LEDs.
+1. apply flux to both the PCB and the LED with a brush
+2. set the soldering iron to 300C to prevent burning out the LEDs
+3. place LED on the PCB. Make sure it's positioned correctly on the pads.
+4. apply a small amount of solder to the soldering iron
+5. make a short swiping motion perpendicular to the LED
+6. repeat for all 4 pads.
+
+![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.jpg)
+The finished solder joints should look like the photo above. You are aming for the nice slope of solder, not a blob.
+Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
 
 
 
