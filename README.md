@@ -223,9 +223,8 @@ To test without switches, short the blue circles if you have the hotswap sockets
 
 <br/>
 
-If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look ok.
-
 ![good soldering](https://cdn-learn.adafruit.com/assets/assets/000/001/978/large1024/tools_Header_Joints.jpg?1396777967)
+If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look ok.
 Here is a reference image in courtesy of adafruit. 
 
 <br/>
