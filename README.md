@@ -23,7 +23,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 ![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.jpg)
 
-a - diode x 21 
+a - diode x 22
 
 b - M2 bolts and nuts / 4 short standoffs / 4 long standoffs
 
@@ -122,15 +122,13 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 <br/>
 
-This is how I solder the LEDs.
+[This](https://streamable.com/dimwli) is how I solder the LEDs.
 1. apply flux to both the PCB and the LED with a brush
 2. set the soldering iron to 300C to prevent burning out the LEDs
 3. place LED on the PCB. Make sure it's positioned correctly on the pads.
 4. apply a small amount of solder to the soldering iron
 5. make a short swiping motion perpendicular to the LED
 6. repeat for all 4 pads.
-
-Click [here](https://streamable.com/dimwli) for a video 
 
 <br/>
 
@@ -139,17 +137,28 @@ Click [here](https://streamable.com/dimwli) for a video
 The finished solder joints should look like the photo above. You are aming for the nice slope of solder, not a blob.
 Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
 
-
 <br/>
 <br/>
 
 ## diodes
 
+### Next step is installing the diodes. 
+
+![diode1](https://github.com/doodboard/tutorial/blob/main/diode_1.jpg)
+
+Nothing fancy here. Align the dioded as shown above, and solder them in. 
+There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
+
+<br/>
+<br/>
+
+## ProMicro
+
 ## hotswap sockets
 
 ## rotary encoder
 
-## ProMicro
+
 
 ## top plate
 
