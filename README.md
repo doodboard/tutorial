@@ -144,7 +144,7 @@ Please make sure you only make contact wiht the iron for 2-3 seconds at a time. 
 
 ### Next step is installing the diodes. 
 
-![diode1](https://github.com/doodboard/tutorial/blob/main/diode_1.jpg)
+![diode1](https://github.com/doodboard/tutorial/blob/main/diodes.jpg)
 
 Nothing fancy here. Align the diodes as shown above, and solder them in. 
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
