@@ -168,8 +168,8 @@ You should** clip the diode legs flush to the PCB** in order to prevent clearing
 
 ![hotswap1](https://github.com/doodboard/tutorial/blob/main/img/hotswap_1.jpg)
 
-Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
-If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
+Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. <br/>
+If you prefer to solder your switches directly to the PCB, you can skip this process, and solder in the switches later **after** installing the top plate. <br/>
 Depending on if you would like to use duckboard as **full 1u macropad**, or as **standard numpad**, you should solder your hotswap sockets **accordingly**.
 
 <br/>
@@ -192,14 +192,14 @@ c) Cut off the pins as much as you can, **without** damaging your solder joints.
 <br/>
 
 ### Now is the time to verify your soldering skills. 
-Plug in your duckboard to your PC via USB cable.
-All 8 LEDs should light up by default. If only a few of them lights up, follow these steps:
+Plug in your duckboard to your PC via **MicroUSB** cable.
+All **8** LEDs should light up by default. If only a few of them lights up, follow these steps:
 
-Start working from LED_1. The signal line for LEDs are connected in serial to help you debugging.
+Start working from **LED_1**. The signal line for LEDs are connected in **serial** to help you debugging.
 For example, if none of your LEDs light up, try reflowing LED_1. 
 If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
 
-Default colour for LED is RED with default R2 hex file. If some of your LEDs light up in different colour, it's due to corrupted signal caused by bad solder joints.
+Default colour for LED is **RED** with default R2 hex file. If some of your LEDs light up in different colour, it's due to **corrupted** signal caused by bad solder joints.
 If some of your LEDs work, but not in serial, so for instance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
 
 ![promicro2](https://github.com/doodboard/tutorial/blob/main/img/promicro_2.jpg)
@@ -210,12 +210,12 @@ This is the schematic of the LED wiring for reference.
 
 ![hotswap2](https://github.com/doodboard/tutorial/blob/main/img/hotswap_2.jpg)
 
-This is also the perfect time to test your keypresses. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
+This is also the perfect time to test your **keypresses**. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
 
 Default hex file for R2 has OLED enabled. ProMicro awaits return signal from OLED.
-So until the display is installed, keypresses will be delayed, and you'll have to hold down each keypress for it to register.
+So until the display is installed, keypresses will be **delayed**, and you'll have to hold down each keypress a little bit longer for it to register.
 
-To test without installing switches, short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
+To test without installing switches, short the **blue** circles if you have the **hotswap sockets** installed. Short the **yello** circles if you plan to solder the switches in **directly**.
 
 <br/>
 
