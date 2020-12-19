@@ -180,18 +180,25 @@ a) Solder the legs to ProMicro. Note the longer side of the legs goes into the P
 b) Solder the ProMicro to the PCB <br/>
 c) Cut off the pins as much as you can, without damaging your solder joints.
 
+<br/>
+
 ### Now is the time to verify your soldering skills. 
 Plug in your duckboard to your PC via USB cable.
 All 8 LEDs should light up by default. If only a few of them lights up, follow these steps:
 
-If only a few LEDs light up, start working from LED_1. The LEDs are connected in serial to help you in debugging.
-For example, if none of your LEDs light up, try reflowing LED_1. If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
+Start working from LED_1. The LEDs are connected in serial to help you debugging.
+For example, if none of your LEDs light up, try reflowing LED_1. 
+If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
+
 Default color for LED is RED with default R2 hex file. If some of your LEDs light up in diffrent colour, it's due to corrupted signal caused by bad solder joints.
 If some of your LEDs work, but not in serial, so for insance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
 
 ![promicro2](https://github.com/doodboard/tutorial/blob/main/promicro_2.jpg)
 
 This is the schematic of the LED wiring for reference.
+
+<br/>
+<br/>
 
 ## rotary encoder
 
