@@ -21,22 +21,33 @@ A single duckboard kit includes the following:
 
 ![component-1](https://github.com/doodboard/tutorial/blob/main/1.JPG)
 
-PCB x 1 
-Top plate x 1 
-bottom plate x 1 
+a - diode x 21 
+b - M2 bolts and nuts / 4 short standoffs / 4 long standoffs
+c - LEDs x 8 
+d - kailh hotswap sockets x 21 
 
-rotary encoder x 1
-encoder knob x 1 
+e - encoder knob x 1 
+f - rotary encoder x 1
 
-pro micro x 1 
-OLED x 1 
-diode x 21 
-LEDs x 8 
-kailh hotswap sockets x 21 
+g - top plate x 1 
+h - PCB x 1 
+i - bottom plate x 1 
 
-M2 bolts and nuts 
-4 short standoffs
-4 long standoffs
+j - pro micro x 1 
+k - OLED x 1 
+
+A single acrylic case kit includes the following:
+
+
+
+
+
+
+
+
+
+
+
 
 
 
