@@ -29,11 +29,13 @@ c - LEDs x 8
 
 d - kailh hotswap sockets x 21 
 
+<br/>
 
 e - encoder knob x 1 
 
 f - rotary encoder x 1
 
+<br/>
 
 g - top plate x 1 
 
@@ -41,12 +43,16 @@ h - PCB x 1
 
 i - bottom plate x 1 
 
+<br/>
 
 j - pro micro x 1 
 
 k - OLED x 1 
 
+<br/>
+<br/>
 
+A single acrylics case kit includes the following:
 
 ![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.jpg)
 
@@ -60,7 +66,8 @@ o - acrylics boundary (big holes) x 1
 
 p - acrylics bottom plate x 1 
 
-
+<br/>
+<br/>
 
 ![component-3](https://github.com/doodboard/tutorial/blob/main/component_3.jpg)
 
