@@ -305,7 +305,8 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 [**Here**](https://i.imgur.com/bLKk2QL.jpg) is the default **keymap** for reference. 
 
 <br/>
+<br/>
 
-Thank you so much for coming along this journey! R3 is planned for early 2021, I hope to see you guys again, **soon!**
+Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
