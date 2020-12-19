@@ -25,7 +25,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 a - diode x 22
 
-b - M2 bolts and nuts / 4 short standoffs / 4 long standoffs
+b - M2 bolts and nuts / short standoffs x 4 / long standoffs x 4
 
 c - LEDs x 8 
 
