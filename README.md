@@ -220,8 +220,8 @@ To test without installing switches, short the **blue** circles if you have the 
 <br/>
 
 ![good soldering](https://cdn-learn.adafruit.com/assets/assets/000/001/978/large1024/tools_Header_Joints.jpg?1396777967)
-If you have any issues, first make sure your LEDs and diodes are oriented right, then check your soldering joints to see if they all look OK.
-Here is a reference image in courtesy of adafruit. 
+If you have any issues, first make sure your LEDs and diodes are **oriented right**, then **check** your soldering joints to see if they all look OK.
+Here is a reference image in courtesy of **adafruit**. 
 
 <br/>
 <br/>
@@ -232,14 +232,14 @@ Here is a reference image in courtesy of adafruit.
 
 ![encoder](https://github.com/doodboard/tutorial/blob/main/img/encoder_1.jpg)
 
-No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
-The two tabs in the middle are for structural purposes only. Apply solder generally. 
-The thinner legs to the top and bottom are malleable. Bend them a little if they need to be in order to fit the PCB.
+No fancy tricks. Solder **7** spots circled above. Make sure the encoder is sitting **flush** to the PCB before you solder it.
+The two tabs in the middle are for **structural** purposes only. Apply solder generally. 
+The thinner legs to the top and bottom are **malleable**. Bend them a little if they need to be in order to fit the PCB.
 
-You can also install the encoder knob now. Align the small screw to the flat face of encoder shaft. Screw it in for stability.
+You can also install the encoder knob now. **Align** the small screw to the flat face of encoder shaft. Screw it in for stability.
 
 Plug in the USB cable, and test rotation in both directions, and pressing the encoder shaft in. 
-It should increase/decrease the volume, and mute/unmute your media player.
+It should **increase/decrease** the volume, and **mute/unmute** your media player.
 
 <br/>
 <br/>
@@ -258,12 +258,12 @@ It should increase/decrease the volume, and mute/unmute your media player.
 
 ![component-2](https://github.com/doodboard/tutorial/blob/main/img/component_2.jpg)
 
-Install stabilizers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion.
+**Install stabilizers now** before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion.
 Grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
-Then insert 4 x popnuts to the bottom 2 plates. Be gentle. If necessary, push it in with a hot soldering iron as demonstrated [here](https://youtu.be/Av3CXxWuI28) by Mei 
-Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a small metal tap on the encoder. Manoeuvre around it. 
-Install your switches. The PCB is held in place by the hotswap sockets and the switches. The force of pressing the switches are tranferred directly to the acrylic case.
-Assemble with the rest of your acrylic plates and screw them in place. That's it, your are done. Install keycaps to your liking and type away!
+Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If necessary, push it in with a hot soldering iron as demonstrated [**here**](https://youtu.be/Av3CXxWuI28) by **Mei**
+Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tap** on the encoder. Manoeuvre around it. 
+Install your switches. The PCB is held in place by the hotswap sockets and the switches. The force of pressing the switches are transferred directly to the acrylic case.
+Assemble with the rest of your acrylic plates and screw them in place. That's it, your are **done**. Install keycaps to your liking and type away!
 
 -------------------------------------------------------------------------------------------------
 
@@ -271,9 +271,9 @@ Assemble with the rest of your acrylic plates and screw them in place. That's it
 
 ![top plate](https://github.com/doodboard/tutorial/blob/main/img/topplate.jpg)
 
-Install stabilizers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion.
-Place the 4 screws into the plate, and screw in the shorter standoffs. Then place the top plate onto the PCB, and screw in the longer standoffs.
-You may find it easier to hold the standoffs with pliers while screwing them in place.
+**Install stabilizers now** before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion.
+Place the 4 screws into the plate, and screw in the **shorter** standoffs. Then place the top plate onto the PCB, and screw in the **longer** standoffs.
+You may find it easier to hold the standoffs with **pliers** while screwing them in place.
 
 
 <br/>
@@ -284,12 +284,12 @@ You may find it easier to hold the standoffs with pliers while screwing them in 
 ### 4 last solder joints
 
 ![oled1](https://github.com/doodboard/tutorial/blob/main/img/oled_1.jpg)
-Remove the black plastic from the OLED pins. Pull them out gently using your fingers or pliers as necessary.
+**Remove the black plastic** from the OLED pins. Pull them out **gently** using your fingers or pliers if necessary.
 
 ![oled2](https://github.com/doodboard/tutorial/blob/main/img/oled_2.jpg)
-Install the OLED in place. Make sure the OLED module is parallel to the top plate, and is oriented correctly before soldering into place.
+Install the OLED in place. Make sure the OLED module is **parallel** to the top plate, and is **positioned correctly** before soldering into place.
 
-Plug in the USB cable once again at this point and ensure everything checks out. If you chose to solder the switchs in directly, now is the time to do so.
+Plug in the USB cable once again at this point and ensure **everything** checks out. If you chose to solder the switchs in directly, now is the time to do so.
 
 <br/>
 <br/>
@@ -300,6 +300,6 @@ Plug in the USB cable once again at this point and ensure everything checks out.
 
 ![finished](https://github.com/doodboard/tutorial/blob/main/img/finished_1.jpg)
 
-Place the bottom plate in position and screw in the 4 x M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
+Place the bottom plate in position and screw in the 4 x M2 nuts to finish off the build. **Install switches and keycaps to your liking, and type away**!
 
-[Here](https://i.imgur.com/bLKk2QL.jpg) is the default keymap for reference. 
+[Here](https://i.imgur.com/bLKk2QL.jpg) is the default **keymap** for reference. 
