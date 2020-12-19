@@ -13,7 +13,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 * [ProMicro](#promicro)
 * [top plate](#top-plate)
 * [OLED](#oled)
-* [assembly](#assembly)
+* [assembly](#final-assembly)
 
 <br/>
 
@@ -180,6 +180,8 @@ No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting 
 The two tabs in the middle are for structural purposes only. Apply solder generally. 
 The thinner legs to the top and bottom are malleable. Bend them a little if they need to be in order to fit the PCB.
 
+You can also install the encoder knob now. Align the small screw to the flat face of encoder shaft. Screw it in for stability.
+
 <br/>
 <br/>
 
@@ -219,7 +221,10 @@ This is the schematic of the LED wiring for reference.
 
 This is also the perfect time to test your keypresses. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
 
-To test without switches, short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
+Default hex file for R2 has OLED enabled. ProMicro awaits return signal from OLED.
+So until the display is installed, keypresses will be delayed, and you'll have to hold down each keypress for it to register.
+
+To test without installing switches, short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
 
 <br/>
 
@@ -236,9 +241,8 @@ Here is a reference image in courtesy of adafruit.
 
 ![top plate](https://github.com/doodboard/tutorial/blob/main/topplate.jpg)
 
-Install stabilisers if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
-You should install them now before moving on. Place the 4 screws into the plate, and screw in the shorter standoffs. 
-Place the top plate onto the PCB, and screw in the longer standoffs.
+Install stabilisers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
+Place the 4 screws into the plate, and screw in the shorter standoffs. Then place the top plate onto the PCB, and screw in the longer standoffs.
 You may find it easier to hold the standoffs with a plier while screwing them in place.
 
 <br/>
@@ -246,9 +250,21 @@ You may find it easier to hold the standoffs with a plier while screwing them in
 
 ## OLED
 
-### Almost time to wrap it all up!
+### 4 last solder joints
+
+![oled1](https://github.com/doodboard/tutorial/blob/main/oled_1.jpg)
+Remove the black plastic from the OLED pins. Pull them out gently using your fingers or pliers as necessary.
+
+![oled2](https://github.com/doodboard/tutorial/blob/main/oled_2.jpg)
+Install the OLED in place. Make sure the OLED module is parallel to the top plate, and is oriented correctly before soldering into place.
+
+Plug in the USB cable once again at this point and ensure everything checks out. If you chose to solder the swichtes in directly, now is the time to do so.
 
 <br/>
 <br/>
 
-## assembly
+## final assembly
+
+### FINISHED
+
+Place the bottom plate in position and screw in the 4 M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
