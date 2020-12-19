@@ -161,7 +161,7 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 
 ### And now onto the hotswap sockets.
 
-![hotswap1](https://github.com/doodboard/tutorial/blob/main/hotswap.jpg)
+![hotswap1](https://github.com/doodboard/tutorial/blob/main/hotswap_1.jpg)
 
 Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
 If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
@@ -174,7 +174,7 @@ Depending on if you would like to use duckboard as full 1u macropad, or as stand
 
 ### Fun fun fun!
 
-![encoder](https://github.com/doodboard/tutorial/blob/main/encoder.jpg)
+![encoder](https://github.com/doodboard/tutorial/blob/main/encoder_1.jpg)
 
 No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
 The two tabs in the middle are for structural purposes only. Apply solder generally. 
