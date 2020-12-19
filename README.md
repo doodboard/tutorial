@@ -180,7 +180,8 @@ a) Solder the legs to ProMicro. Note the longer side of the legs goes into the P
 b) Solder the ProMicro to the PCB <br/>
 c) Cut off the pins as much as you can, without damaging your solder joints.
 
-Now is the time to verify your soldering skills. Plug in your duckboard to your PC via USB cable.
+###Now is the time to verify your soldering skills. 
+Plug in your duckboard to your PC via USB cable.
 All 8 LEDs should light up by default. If only a few of them lights up, follow these steps:
 
 If only a few LEDs light up, start working from LED_1. The LEDs are connected in serial to help you in debugging.
