@@ -96,6 +96,8 @@ You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 2. MCU should be set to "atmega32u4"
 3. check Auto-Flash
 
+<br/>
+
 Plug in your pro micro, and if it doesn't flash automatically, short GND to RST on pro micro twice, fast.
 Use a tweezer or a plier or anything conductive.
 
@@ -118,6 +120,8 @@ Therefore, using flux is highly recommended as it helps solder to flow under the
 
 LEDs should be positioned as shown above, the small black square inside the LED should line up with the small circle on the PCB.
 
+<br/>
+
 ![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.gif)
 
 This is how I solder the LEDs.
@@ -127,6 +131,8 @@ This is how I solder the LEDs.
 4. apply a small amount of solder to the soldering iron
 5. make a short swiping motion perpendicular to the LED
 6. repeat for all 4 pads.
+
+<br/>
 
 ![LED3](https://github.com/doodboard/tutorial/blob/main/LED_3.jpg)
 
