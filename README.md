@@ -19,7 +19,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 A single duckboard kit includes the following:
 
-![component-1](https://github.com/doodboard/tutorial/blob/main/1.JPG)
+![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.JPG)
 
 a - diode x 21 
 
@@ -47,17 +47,26 @@ j - pro micro x 1
 k - OLED x 1 
 
 
-A single acrylic case kit includes the following:
+
+![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.JPG)
+
+l - acrylics top plate x 1 
+
+m - acrylics plate x 1 
+
+n - acrylics boundary (small holes) x 1 
+
+o - acrylics boundary (big holes) x 1 
+
+p - acrylics bottom plate x 1 
 
 
 
+![component-3](https://github.com/doodboard/tutorial/blob/main/component_3.JPG)
 
+q - M3 16mm screw  x 4 
 
-
-
-
-
-
+r - M3 pop nuts x 4 
 
 
 
