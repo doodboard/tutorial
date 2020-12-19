@@ -148,7 +148,7 @@ Please make sure you only make contact wiht the iron for 2-3 seconds at a time. 
 
 ![diode1](https://github.com/doodboard/tutorial/blob/main/diodes.jpg)
 
-Nothing fancy here. Align the diodes as shown above, and solder them in. 
+Nothing fancy here. Align the diodes as shown above, and solder them in. I recommend using flux, but it's not required.
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
 
 If you plan to use stabilisers, pay extra attention to the diodes near stab housings. 
@@ -188,6 +188,8 @@ The thinner legs to the top and bottom are malleable. Bend them a little if they
 ### Now the real fun begins.
 
 ![promicro1](https://github.com/doodboard/tutorial/blob/main/promicro_1.jpg)
+
+Again, I recommend using flux, but it's not required. Just makes your life a little easier.
 
 a) Solder the legs to ProMicro. Note the longer side of the legs goes into the PCB <br/> 
 b) Solder the ProMicro to the PCB <br/>
@@ -229,9 +231,25 @@ Here is a reference image in courtesy of adafruit.
 <br/>
 <br/>
 
-
 ## top plate
 
+### Almost time to wrap it all up!
+
+![top plate](https://github.com/doodboard/tutorial/blob/main/topplate.jpg)
+
+Install stabilisers if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
+You should install them now before moving on. Place the 4 screws into the plate, and screw in the shorter standoffs. 
+Place the top plate onto the PCB, and screw in the longer standoffs.
+You may find it easier to hold the standoffs with a plier while screwing them in place.
+
+<br/>
+<br/>
+
 ## OLED
+
+### Almost time to wrap it all up!
+
+<br/>
+<br/>
 
 ## assembly
