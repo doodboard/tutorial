@@ -239,9 +239,11 @@ Here is a reference image in courtesy of adafruit.
 
 ### Almost time to wrap it all up!
 
+#### IF YOU WANT TO USE ACRYLICS CASE, STOP AND CLICK BELOW
+
 
 <details>
-	<summary>IF YOU WANT TO INSTALL ACRYLICS CASE, CLICK ME</summary>
+	<summary>CLICK ME</summary>
 <br/>
 
 ![component-2](https://github.com/doodboard/tutorial/blob/main/img/component_2.jpg)
