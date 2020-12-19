@@ -92,7 +92,7 @@ You can download the hex file for R2 duckboard [here](https://officialdoodboard.
 
 You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 
-![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox.jpg)
+![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
 
 1. confirm you have downloaded and opened the right HEX file on qmk toolbox
 2. MCU should be set to "atmega32u4"
@@ -103,7 +103,7 @@ Use a tweezer or a plier or anything conductive.
 
 You should see the following if everything went successfully.
 
-![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
+![qmk_toolbox](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_2.jpg)
 
 
 
