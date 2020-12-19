@@ -157,7 +157,7 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 <br/>
 <br/>
 
-## hotswap sockets (optional)
+## hotswap sockets
 
 ### And now onto the hotswap sockets.
 
