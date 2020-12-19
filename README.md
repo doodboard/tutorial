@@ -164,8 +164,21 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 ![hotswap1](https://github.com/doodboard/tutorial/blob/main/hotswap.jpg)
 
 Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
-If you prefer to solder your switches directly, you can skip this process.
+If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
 Depending on if you would like to use duckboard as full 1u macropad, or as standard numpad, you should solder your hotswap sockets accordingly.
+
+<br/>
+<br/>
+
+## rotary encoder
+
+### Fun fun fun!
+
+![encoder](https://github.com/doodboard/tutorial/blob/main/encoder.jpg)
+
+No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
+The two tabs in the middle are for structural purposes only. Apply solder generally. 
+The thinner legs to the top and bottom are malleable. Bend them a little if they need to be in order to fit the PCB.
 
 <br/>
 <br/>
@@ -181,12 +194,13 @@ b) Solder the ProMicro to the PCB <br/>
 c) Cut off the pins as much as you can, without damaging your solder joints.
 
 <br/>
+<br/>
 
 ### Now is the time to verify your soldering skills. 
 Plug in your duckboard to your PC via USB cable.
 All 8 LEDs should light up by default. If only a few of them lights up, follow these steps:
 
-Start working from LED_1. The LEDs are connected in serial to help you debugging.
+Start working from LED_1. The signal line for LEDs are connected in serial to help you debugging.
 For example, if none of your LEDs light up, try reflowing LED_1. 
 If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
 
@@ -197,10 +211,15 @@ If some of your LEDs work, but not in serial, so for insance LED_1, 2 and 8 ligh
 
 This is the schematic of the LED wiring for reference.
 
-<br/>
-<br/>
+![hotswap2](https://github.com/doodboard/tutorial/blob/main/hotswap_2.jpg)
 
-## rotary encoder
+This is also the perfect time to test your keypresses. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
+Short the blue circles if you have the hotswap sockets installed. Short the yello circles if you plan to solder the switches in directly.
+
+
+
+<br/>
+<br/>
 
 ## top plate
 
