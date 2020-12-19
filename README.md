@@ -155,7 +155,11 @@ Nothing fancy here. Align the diodes as shown above, and solder them in. I recom
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
 
 If you plan to use stabilizers, pay extra attention to the diodes near stab housings. 
-You should clip the diode legs flush to the PCB in order to prevent clearing issue. 
+You should clip the diode legs flush to the PCB in order to prevent clearing issue.
+
+Here is an up-close image of what a soldered diode looks like:
+
+![Image of a diode soldered to the PCB](img/diode_soldered.jpg)
 
 <br/>
 <br/>
@@ -169,6 +173,10 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
 If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
 Depending on if you would like to use duckboard as full 1u macropad, or as standard numpad, you should solder your hotswap sockets accordingly.
+
+Here is an up-close image of what a soldered hotswap socket looks like:
+
+![Image of a hotswap socket soldered to the PCB](img/hotswap_soldered.jpg)
 
 <br/>
 <br/>
@@ -199,6 +207,10 @@ Again, I recommend using flux, but it's not required. Just makes your life a lit
 a) Solder the legs to ProMicro. Note the longer side of the legs goes into the PCB <br/> 
 b) Solder the ProMicro to the PCB <br/>
 c) Cut off the pins as much as you can, without damaging your solder joints.
+
+After soldering and trimming the pins, your Pro Micro should be attached to your PCB similar to this:
+
+![Image of the Pro Micro soldered to the PCB](img/promicro_soldered.jpg)
 
 <br/>
 <br/>
