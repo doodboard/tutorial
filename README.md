@@ -6,6 +6,7 @@ last update - 19/Dec/2020
 
 ## Table of Contents
 
+* [prerequisites](#prerequisites)
 * [components](#components)
 * [flashing](#flashing)
 * [LEDs](#leds)
@@ -18,6 +19,24 @@ last update - 19/Dec/2020
 * [assembly](#final-assembly)
 
 <br/>
+
+## prerequisites
+
+There are some items you will need in order to build your duckboard.
+
+### Required
+
+* A [soldering iron](https://en.wikipedia.org/wiki/Soldering_iron) that can operate at or below 300° Celsius (572° Fahrenheit).
+* A small [Phillips](https://en.wikipedia.org/wiki/List_of_screw_drives#Phillips) screwdriver. Size 1 works, as does size 0.
+* A willingness to do some soldering and assemble a duckboard!
+
+### Optional but highly recommended
+
+* [Tweezers](https://en.wikipedia.org/wiki/Tweezers) for gripping the small components.
+* Some kind of desoldering tool, such as a solder wick (aka desoldering braid) or solder sucker (aka desoldering pump). This will be extremely helpful in case you make small mistakes along the way. Check out the tools in [this Wikipedia article](https://en.wikipedia.org/wiki/Desoldering#Tools) for more information.
+
+<br />
+<br />
 
 ## components
 
