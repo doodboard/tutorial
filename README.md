@@ -19,7 +19,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 A single duckboard kit includes the following:
 
-![component-1](https://github.com/doodboard/tutorial/1.jpg)
+![component-1](https://github.com/doodboard/tutorial/blob/main/1.JPG)
 
 PCB x 1 
 Top plate x 1 
