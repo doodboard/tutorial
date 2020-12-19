@@ -153,11 +153,11 @@ In the case that you burn through even the extra LEDs provided, model number is 
 
 ![diode1](https://github.com/doodboard/tutorial/blob/main/img/diodes.jpg)
 
-Nothing fancy here. Align the diodes as shown above, and solder them in. I recommend using flux, but it's not required.
+Nothing fancy here. **Align the diodes as shown above**, and solder them in. I recommend using flux, but it's not required.
 There are total of **22** diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
 
 If you plan to use stabilizers, pay extra attention to the diodes near stab housings. 
-You should clip the diode legs flush to the PCB in order to prevent clearing issue. 
+You should** clip the diode legs flush to the PCB** in order to prevent clearing issue. 
 
 <br/>
 <br/>
@@ -170,7 +170,7 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 
 Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
 If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
-Depending on if you would like to use duckboard as full 1u macropad, or as standard numpad, you should solder your hotswap sockets accordingly.
+Depending on if you would like to use duckboard as **full 1u macropad**, or as **standard numpad**, you should solder your hotswap sockets **accordingly**.
 
 <br/>
 <br/>
@@ -182,11 +182,11 @@ Depending on if you would like to use duckboard as full 1u macropad, or as stand
 
 ![promicro1](https://github.com/doodboard/tutorial/blob/main/img/promicro_1.jpg)
 
-Again, I recommend using flux, but it's not required. Just makes your life a little easier.
+Again, I recommend using flux, but it's not required. Just makes your life a **little** easier.
 
-a) Solder the legs to ProMicro. Note the longer side of the legs goes into the PCB <br/> 
+a) Solder the legs to ProMicro. Note the **longer side of the legs goes into the PCB** <br/> 
 b) Solder the ProMicro to the PCB <br/>
-c) Cut off the pins as much as you can, without damaging your solder joints.
+c) Cut off the pins as much as you can, **without** damaging your solder joints.
 
 <br/>
 <br/>
