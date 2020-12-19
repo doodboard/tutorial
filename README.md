@@ -38,6 +38,10 @@ There are some items you will need in order to build your duckboard.
 * [Flux](https://en.wikipedia.org/wiki/Flux_(metallurgy)#Soldering) for certain techniques and making your job easier.
 * [Wire cutters](https://en.wikipedia.org/wiki/Diagonal_pliers) that are flush-cutting. Flush-cutting is preferred as this will make it easier to get the cuts you need.
 
+### Optional
+
+* If you want to customize the firmware, you will likely need to learn more about QMK. Please check out the [QMK documentation](https://docs.qmk.fm/) as that is out of scope of this tutorial.
+
 <br />
 <br />
 
@@ -343,3 +347,7 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
 
 <br/><br/><br/>
+
+## what next?
+
+You can add your favorite stabilizers, switches, and keycaps! If you are interested in changing the default keymap or other functionality of the board, you may also want to learn about [QMK](https://docs.qmk.fm/) and use the [duckboard source code](https://github.com/doodboard/source-code).
