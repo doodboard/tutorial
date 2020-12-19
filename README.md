@@ -116,7 +116,7 @@ The LEDs are SMD, meaning they are surface mounted, as opposed to through hole m
 Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
 I personally prefer flux past, as opposed to flux pens, but it's up to personal preference.
 
-LEDs provide underglow to the duckboard. If you find it too frustrating, it's **alright** to forego the LEDs. 
+LEDs provide underglow to the duckboard. If you find it too frustrating, it's **alright** to forego the LEDs. <br/>
 **It won't affect the core functionality of duckboard as a macropad**
 
 ![LED1](https://github.com/doodboard/tutorial/blob/main/img/LED_1.jpg)
