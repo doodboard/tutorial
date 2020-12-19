@@ -105,16 +105,18 @@ You should see the following if everything went successfully.
 
 ![qmk_toolbox2](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_2.jpg)
 
-
 <br/>
 <br/>
 
-## LEDs
+## LEDs (optional)
 
 ### Now we'll work on the LEDs. This is the *toughest* part of the build. 
 
 The LEDs are SMD, meaning they are surface mounted, as opposed to through hole mounted. 
 Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
+
+LEDs provide underglow to the duckboard. If you find it too furstrating, it's alright to forego the LEDs. 
+It won't affect the core functionality of duckboard as a macropad.
 
 ![LED1](https://github.com/doodboard/tutorial/blob/main/LED_1.jpg)
 
@@ -155,13 +157,19 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 <br/>
 <br/>
 
-## ProMicro
+## hotswap sockets (optional)
 
-## hotswap sockets
+### And now onto the hotswap sockets.
+
+![hotswap1](https://github.com/doodboard/tutorial/blob/main/hotswap.jpg)
+
+Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
+If you prefer to solder your switches directly, you can skip this process.
+Depending on if you would like to use duckboard as full 1u macropad, or as standard numpad, you should solder your hotswap sockets accordingly.
 
 ## rotary encoder
 
-
+## ProMicro
 
 ## top plate
 
