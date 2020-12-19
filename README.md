@@ -115,6 +115,7 @@ The LEDs are SMD, meaning they are surface mounted, as opposed to through hole m
 Therefore, using flux is highly recommended as it helps solder to flow under the LEDs far more easily.
 
 ![LED1](https://github.com/doodboard/tutorial/blob/main/LED_1.jpg)
+
 LEDs should be positioned as shown above, the small black square inside the LED should line up with the small circle on the PCB.
 
 ![LED2](https://github.com/doodboard/tutorial/blob/main/LED_2.gif)
@@ -128,6 +129,7 @@ This is how I solder the LEDs.
 6. repeat for all 4 pads.
 
 ![LED3](https://github.com/doodboard/tutorial/blob/main/LED_3.jpg)
+
 The finished solder joints should look like the photo above. You are aming for the nice slope of solder, not a blob.
 Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
 
