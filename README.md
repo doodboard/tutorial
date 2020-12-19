@@ -21,7 +21,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 
 ### A single duckboard kit includes the following:
 
-![component-1](https://github.com/doodboard/tutorial/blob/main/component_1.jpg)
+![component-1](https://github.com/doodboard/tutorial/blob/main/img/component_1.jpg)
 
 a - diode x 22
 
@@ -56,7 +56,7 @@ k - OLED x 1
 
 ### A single acrylics case kit includes the following:
 
-![component-2](https://github.com/doodboard/tutorial/blob/main/component_2.jpg)
+![component-2](https://github.com/doodboard/tutorial/blob/main/img/component_2.jpg)
 
 l - acrylics top plate x 1 
 
@@ -71,7 +71,7 @@ p - acrylics bottom plate x 1
 <br/>
 <br/>
 
-![component-3](https://github.com/doodboard/tutorial/blob/main/component_3.jpg)
+![component-3](https://github.com/doodboard/tutorial/blob/main/img/component_3.jpg)
 
 q - M3 16mm screw  x 4 
 
@@ -90,7 +90,7 @@ If you wish to compile your own hex file, you can grab the source code [here](ht
 
 You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 
-![qmk_toolbox1](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_1.jpg)
+![qmk_toolbox1](https://github.com/doodboard/tutorial/blob/main/img/qmk_toolbox_1.jpg)
 
 1. confirm you have downloaded and opened the right HEX file on qmk toolbox
 2. MCU should be set to "atmega32u4"
@@ -103,7 +103,7 @@ Use a tweezer or a plier or anything conductive.
 
 You should see the following if everything went successfully.
 
-![qmk_toolbox2](https://github.com/doodboard/tutorial/blob/main/qmk_toolbox_2.jpg)
+![qmk_toolbox2](https://github.com/doodboard/tutorial/blob/main/img/qmk_toolbox_2.jpg)
 
 <br/>
 <br/>
@@ -118,7 +118,7 @@ Therefore, using flux is highly recommended as it helps solder to flow under the
 LEDs provide underglow to the duckboard. If you find it too furstrating, it's alright to forego the LEDs. 
 It won't affect the core functionality of duckboard as a macropad.
 
-![LED1](https://github.com/doodboard/tutorial/blob/main/LED_1.jpg)
+![LED1](https://github.com/doodboard/tutorial/blob/main/img/LED_1.jpg)
 
 LEDs should be positioned as shown above, the small black square inside the LED should line up with the small circle on the PCB.
 
@@ -134,7 +134,7 @@ LEDs should be positioned as shown above, the small black square inside the LED 
 
 <br/>
 
-![LED3](https://github.com/doodboard/tutorial/blob/main/LED_3.jpg)
+![LED3](https://github.com/doodboard/tutorial/blob/main/img/LED_3.jpg)
 
 The finished solder joints should look like the photo above. You are aming for the nice slope of solder, not a blob.
 Please make sure you only make contact wiht the iron for 2-3 seconds at a time. Longer exposure to heat can burn out the LED.
@@ -146,7 +146,7 @@ Please make sure you only make contact wiht the iron for 2-3 seconds at a time. 
 
 ### Next step is installing the diodes. 
 
-![diode1](https://github.com/doodboard/tutorial/blob/main/diodes.jpg)
+![diode1](https://github.com/doodboard/tutorial/blob/main/img/diodes.jpg)
 
 Nothing fancy here. Align the diodes as shown above, and solder them in. I recommend using flux, but it's not required.
 There are total of 22 diodes to install: 21 for the 21 switches, and 1 for the push function of rotary encoder.
@@ -161,7 +161,7 @@ You should clip the diode legs flush to the PCB in order to prevent clearing iss
 
 ### And now onto the hotswap sockets.
 
-![hotswap1](https://github.com/doodboard/tutorial/blob/main/hotswap_1.jpg)
+![hotswap1](https://github.com/doodboard/tutorial/blob/main/img/hotswap_1.jpg)
 
 Again, nothing fancy here. Place the hotswap sockets into the PCB, following the guidelines. 
 If you prefer to solder your switches directly, you can skip this process, and solder in the switches later **after** installing the top plate.
@@ -174,7 +174,7 @@ Depending on if you would like to use duckboard as full 1u macropad, or as stand
 
 ### Fun fun fun!
 
-![encoder](https://github.com/doodboard/tutorial/blob/main/encoder_1.jpg)
+![encoder](https://github.com/doodboard/tutorial/blob/main/img/encoder_1.jpg)
 
 No fancy tricks. Solder 7 spots circled above. Make sure the encoder is sitting flush to the PCB before you solder it.
 The two tabs in the middle are for structural purposes only. Apply solder generally. 
@@ -189,7 +189,7 @@ You can also install the encoder knob now. Align the small screw to the flat fac
 
 ### Now the real fun begins.
 
-![promicro1](https://github.com/doodboard/tutorial/blob/main/promicro_1.jpg)
+![promicro1](https://github.com/doodboard/tutorial/blob/main/img/promicro_1.jpg)
 
 Again, I recommend using flux, but it's not required. Just makes your life a little easier.
 
@@ -211,13 +211,13 @@ If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights 
 Default color for LED is RED with default R2 hex file. If some of your LEDs light up in diffrent colour, it's due to corrupted signal caused by bad solder joints.
 If some of your LEDs work, but not in serial, so for insance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
 
-![promicro2](https://github.com/doodboard/tutorial/blob/main/promicro_2.jpg)
+![promicro2](https://github.com/doodboard/tutorial/blob/main/img/promicro_2.jpg)
 
 This is the schematic of the LED wiring for reference.
 
 <br/>
 
-![hotswap2](https://github.com/doodboard/tutorial/blob/main/hotswap_2.jpg)
+![hotswap2](https://github.com/doodboard/tutorial/blob/main/img/hotswap_2.jpg)
 
 This is also the perfect time to test your keypresses. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
 
@@ -239,7 +239,7 @@ Here is a reference image in courtesy of adafruit.
 
 ### Almost time to wrap it all up!
 
-![top plate](https://github.com/doodboard/tutorial/blob/main/topplate.jpg)
+![top plate](https://github.com/doodboard/tutorial/blob/main/img/topplate.jpg)
 
 Install stabilisers now before moving on if you wish to use them. For 2u switches, I personally prefer the tactility of not having stabs installed, but that's just my personal opinion. 
 Place the 4 screws into the plate, and screw in the shorter standoffs. Then place the top plate onto the PCB, and screw in the longer standoffs.
@@ -252,10 +252,10 @@ You may find it easier to hold the standoffs with a plier while screwing them in
 
 ### 4 last solder joints
 
-![oled1](https://github.com/doodboard/tutorial/blob/main/oled_1.jpg)
+![oled1](https://github.com/doodboard/tutorial/blob/main/img/oled_1.jpg)
 Remove the black plastic from the OLED pins. Pull them out gently using your fingers or pliers as necessary.
 
-![oled2](https://github.com/doodboard/tutorial/blob/main/oled_2.jpg)
+![oled2](https://github.com/doodboard/tutorial/blob/main/img/oled_2.jpg)
 Install the OLED in place. Make sure the OLED module is parallel to the top plate, and is oriented correctly before soldering into place.
 
 Plug in the USB cable once again at this point and ensure everything checks out. If you chose to solder the swichtes in directly, now is the time to do so.
@@ -267,7 +267,8 @@ Plug in the USB cable once again at this point and ensure everything checks out.
 
 ### FINISHED
 
-![finished](https://github.com/doodboard/tutorial/blob/main/finished_1.jpg)
+![finished](https://github.com/doodboard/tutorial/blob/main/img/finished_1.jpg)
 
 Place the bottom plate in position and screw in the 4 x M2 nuts to finish off the build. Install switches and keycaps to your liking, and type away!
+
 [Here](https://i.imgur.com/bLKk2QL.jpg) is the default keymap 
