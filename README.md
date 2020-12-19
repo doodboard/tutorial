@@ -1,6 +1,7 @@
 # Build guide for R2 duckboard
 
-Here is a comprehensive build guide for R2 duckboard, written by doodboard. 
+Here is a comprehensive build guide for **R2** duckboard, written by **doodboard**
+last update - 19/Dec/2020
 
 ## Table of Contents
 
@@ -92,14 +93,14 @@ You can grab QMK toolbox from [here](https://github.com/qmk/qmk_toolbox)
 
 ![qmk_toolbox1](https://github.com/doodboard/tutorial/blob/main/img/qmk_toolbox_1.jpg)
 
-1. confirm you have downloaded and opened the right HEX file on qmk toolbox
-2. MCU should be set to "atmega32u4"
-3. check Auto-Flash
+1. confirm you have downloaded and opened the **right HEX file** on qmk toolbox
+2. MCU should be set to **"atmega32u4"**
+3. check **Auto-Flash**
 
 <br/>
 
-Plug in your pro micro, and if it doesn't flash automatically, short GND to RST on pro micro twice, fast.
-Use a tweezer or pliers or anything conductive.
+Plug in your pro micro, and if it doesn't flash automatically, **short GND to RST on pro micro twice, fast.**<br/>
+Use a tweezer or pliers or anything else conductive.
 
 You should see the following if everything went successfully.
 
