@@ -176,7 +176,7 @@ Depending on if you would like to use duckboard as full 1u macropad, or as stand
 
 ![promicro1](https://github.com/doodboard/tutorial/blob/main/promicro.jpg)
 
-a) Solder the legs to ProMicro <br/> 
+a) Solder the legs to ProMicro. Note the longer side of the legs goes into the PCB <br/> 
 b) Solder the ProMicro to the PCB <br/>
 c) Cut off the pins as much as you can, without damaging your solder joints.
 
