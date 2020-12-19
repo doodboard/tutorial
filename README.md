@@ -15,7 +15,11 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 * [OLED](#oled)
 * [assembly](#assembly)
 
+<br/>
+
 ## components
+
+<br/>
 
 ### A single duckboard kit includes the following:
 
@@ -75,8 +79,8 @@ q - M3 16mm screw  x 4
 
 r - M3 pop nuts x 4 
 
-
-
+<br/>
+<br/>
 
 ## flashing
 
