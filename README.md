@@ -9,7 +9,7 @@ Here is a comprehensive build guide for R2 duckboard, written by doodboard.
 * [LEDs](#leds)
 * [diodes](#diodes)
 * [hotswap sockets](#hotswap-sockets)
-* [rotary encoder](#encoder)
+* [rotary encoder](#rotary-encoder)
 * [ProMicro](#promicro)
 * [top plate](#top-plate)
 * [OLED](#oled)
@@ -108,7 +108,7 @@ You should see the following if everything went successfully.
 <br/>
 <br/>
 
-## LEDs (optional)
+## LEDs 
 
 ### Now we'll work on the LEDs. This is the *toughest* part of the build. 
 
