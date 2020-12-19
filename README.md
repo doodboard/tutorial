@@ -250,7 +250,7 @@ Install stabilizers now before moving on if you wish to use them. For 2u switche
 ![component-2](https://github.com/doodboard/tutorial/blob/main/img/component_2.jpg)
 
 grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
-Then insert 4 x popnuts to the bottom 2 plates. Be gentle. If necessary, push it in with a hot soldering iron as demonstrated by Mei [here](https://youtu.be/Av3CXxWuI28)
+Then insert 4 x popnuts to the bottom 2 plates. Be gentle. If necessary, push it in with a hot soldering iron as demonstrated [here](https://youtu.be/Av3CXxWuI28) by Mei 
 Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a small metal tap on the encoder. Manoeuvre around it. 
 Install your switches. The PCB is held in place by the hotswap sockets and the switches. The force of pressing the switches are tranferred directly to the acrylic case.
 Assemble with the rest of your acrylic plates and screw them in place. That's it, your are done. Install keycaps to your liking and type away!
