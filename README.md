@@ -300,13 +300,9 @@ It should **increase/decrease** the volume, and **mute/unmute** your media playe
 
 Grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
 
-<br/>
-
 Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If necessary, push it in with a hot soldering iron as demonstrated [**here**](https://youtu.be/Av3CXxWuI28) by **Mei**.
 
 Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tap** on the encoder. Manoeuvre around it. 
-
-<br/>
 
 Install your switches. The PCB is held in place by the hotswap sockets and the switches. The force of pressing the switches are transferred directly to the acrylic case.
 
