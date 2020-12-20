@@ -41,6 +41,7 @@ There are some items you will need in order to build your duckboard.
 ### Optional
 
 * If you want to customize the firmware, you will likely need to learn more about QMK. Please check out the [QMK documentation](https://docs.qmk.fm/) as that is out of scope of this tutorial.
+* If you are newer to soldering, you may want to check out a guide like the [Adafruit Guide To Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering). This will help create [good solder joints](https://learn.adafruit.com/adafruit-guide-excellent-soldering/making-a-good-solder-joint) and identify and address [common soldering problems](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems).
 
 <br />
 <br />
