@@ -6,6 +6,7 @@ last update - 19/Dec/2020
 
 ## Table of Contents
 
+* [prerequisites](#prerequisites)
 * [components](#components)
 * [flashing](#flashing)
 * [LEDs](#leds)
@@ -19,39 +20,65 @@ last update - 19/Dec/2020
 
 <br/>
 
+## prerequisites
+
+There are some items you will need in order to build your duckboard.
+
+### Required
+
+* A [soldering iron](https://en.wikipedia.org/wiki/Soldering_iron) that can operate at or below 300° Celsius (572° Fahrenheit).
+* [Solder](https://en.wikipedia.org/wiki/Solder) to join the components to the PCB. The type of solder depends on your preference.
+* A small [Phillips](https://en.wikipedia.org/wiki/List_of_screw_drives#Phillips) screwdriver. Size 1 works, as does size 0.
+* A willingness to do some soldering and assemble a duckboard!
+
+### Optional but highly recommended
+
+* [Tweezers](https://en.wikipedia.org/wiki/Tweezers) for gripping the small components.
+* Some kind of desoldering tool, such as a solder wick (aka desoldering braid) or solder sucker (aka desoldering pump). This will be extremely helpful in case you make small mistakes along the way. Check out the tools in [this Wikipedia article](https://en.wikipedia.org/wiki/Desoldering#Tools) for more information.
+* [Flux](https://en.wikipedia.org/wiki/Flux_(metallurgy)#Soldering) for certain techniques and making your job easier.
+* [Wire cutters](https://en.wikipedia.org/wiki/Diagonal_pliers) that are flush-cutting. Flush-cutting is preferred as this will make it easier to get the cuts you need.
+
+### Optional
+
+* If you want to customize the firmware, you will likely need to learn more about QMK. Please check out the [QMK documentation](https://docs.qmk.fm/) as that is out of scope of this tutorial.
+* If you are newer to soldering, you may want to check out a guide like the [Adafruit Guide To Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering). This will help create [good solder joints](https://learn.adafruit.com/adafruit-guide-excellent-soldering/making-a-good-solder-joint) and identify and address [common soldering problems](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems).
+
+<br />
+<br />
+
 ## components
 
 ### A single duckboard kit includes the following:
 
 ![component-1](img/component_1.jpg)
 
-a - diode x 22
+**a** - diode x 22
 
-b - M2 bolts and nuts / short standoffs x 4 / long standoffs x 4
+**b** - M2 bolts and nuts / short standoffs x 4 / long standoffs x 4
 
-c - LEDs x 8 
+**c** - LEDs x 8 
 
-d - kailh hotswap sockets x 21 
-
-<br/>
-
-e - encoder knob x 1 
-
-f - rotary encoder x 1
+**d** - kailh hotswap sockets x 21 
 
 <br/>
 
-g - top plate x 1 
+**e** - encoder knob x 1 
 
-h - PCB x 1 
-
-i - bottom plate x 1 
+**f** - rotary encoder x 1
 
 <br/>
 
-j - pro micro x 1 
+**g** - top plate x 1 
 
-k - OLED x 1 
+**h** - PCB x 1 
+
+**i** - bottom plate x 1 
+
+<br/>
+
+**j** - pro micro x 1 
+
+**k** - OLED x 1 
 
 <br/>
 <br/>
@@ -60,24 +87,24 @@ k - OLED x 1
 
 ![component-2](img/component_2.jpg)
 
-l - acrylics top plate x 1 
+**l** - acrylics top plate x 1 
 
-m - acrylics plate x 1 
+**m** - acrylics plate x 1 
 
-n - acrylics boundary (small holes) x 1 
+**n** - acrylics boundary (small holes) x 1 
 
-o - acrylics boundary (big holes) x 1 
+**o** - acrylics boundary (big holes) x 1 
 
-p - acrylics bottom plate x 1 
+**p** - acrylics bottom plate x 1 
 
 <br/>
 <br/>
 
 ![component-3](img/component_3.jpg)
 
-q - M3 16mm screw  x 4 
+**q** - M3 16mm screw  x 4 
 
-r - M3 pop nuts x 4 
+**r** - M3 pop nuts x 4 
 
 <br/>
 <br/>
@@ -321,3 +348,7 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
 
 <br/><br/><br/>
+
+## what next?
+
+You can add your favorite stabilizers, switches, and keycaps! If you are interested in changing the default keymap or other functionality of the board, you may also want to learn about [QMK](https://docs.qmk.fm/) and use the [duckboard source code](https://github.com/doodboard/source-code).
