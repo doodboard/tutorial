@@ -214,7 +214,7 @@ Here is an up-close image of what a soldered hotswap socket looks like:
 
 ### Now the real fun begins.
 
-![promicro1](img/promicro_1.jpg)
+![promicro1](img/promicro_0.jpg)
 
 Again, I recommend using flux, but it's not required. Just makes your life a **little** easier.
 
