@@ -219,8 +219,7 @@ Here is an up-close image of what a soldered hotswap socket looks like:
 Again, I recommend using flux, but it's not required. Just makes your life a **little** easier.
 
 a) Solder the legs to ProMicro. Note the **longer side of the legs goes into the PCB** <br/> 
-b) Solder the ProMicro to the PCB <br/>
-c) Cut off the pins as much as you can, **without** damaging your solder joints.
+b) Solder the ProMicro to the PCB, and cut off the pins as much as you can, **without** damaging your solder joints.
 
 After soldering and trimming the pins, your Pro Micro should be attached to your PCB similar to this:
 
