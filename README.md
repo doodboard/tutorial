@@ -301,7 +301,11 @@ Grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED nee
 
 Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If necessary, push it in with a hot soldering iron as demonstrated [**here**](https://youtu.be/Av3CXxWuI28) by **Mei**.
 
-Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tap** on the encoder. Manoeuvre around it. 
+Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tab** on the encoder. Manoeuvre around it. 
+
+If you just can't fit the plate over the metal tab, take a **clean** soldering iron to the area of acrylic plate in contact with the metal tab, and gently push it. 
+
+Your aim is to cleanly create a small gap for the metal tab to pass through.
 
 Install your switches. The PCB is held in place by the hotswap sockets and the switches. The force of pressing the switches are transferred directly to the acrylic case.
 
@@ -347,12 +351,11 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 [**Here**](https://i.imgur.com/bLKk2QL.jpg) is the default **keymap** for reference. 
 
 <br/>
-<br/>
 
 Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
 
-<br/><br/><br/>
+<br/><br/>
 
-## what next?
+## what's next?
 
-You can add your favorite stabilizers, switches, and keycaps! If you are interested in changing the default keymap or other functionality of the board, you may also want to learn about [QMK](https://docs.qmk.fm/) and use the [duckboard source code](https://github.com/doodboard/source-code).
+You can add your favourite stabilizers, switches, and keycaps! If you are interested in changing the default keymap or other functionality of the board, you may also want to learn about [QMK](https://docs.qmk.fm/) and use the [duckboard source code](https://github.com/doodboard/source-code).
