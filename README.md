@@ -52,33 +52,24 @@ There are some items you will need in order to build your duckboard.
 
 ![component-1](img/component_1.jpg)
 
-**a** - diode x 22
-
-**b** - M2 bolts and nuts / short standoffs x 4 / long standoffs x 4
-
-**c** - LEDs x 8 
-
-**d** - kailh hotswap sockets x 21 
-
-<br/>
-
-**e** - encoder knob x 1 
-
-**f** - rotary encoder x 1
-
-<br/>
-
-**g** - top plate x 1 
-
-**h** - PCB x 1 
-
-**i** - bottom plate x 1 
-
-<br/>
-
-**j** - pro micro x 1 
-
-**k** - OLED x 1 
+| Label  | Part name         | Part quantity | Possible replacement (if needed)  |
+|--------|-------------------|---------------|-----------------------------------|
+| **a**  | Diode             | 22            | 1N4148 THT Diode                  |
+| **b**  | M2 bolts and nuts | 4             | M2 screws and matching nuts       |
+| **b**  | Short standoffs   | 4             |                                   |
+| **b**  | Long standoffs    | 4             |                                   |
+| **c**  | LEDs              | 8             | SK6812 3545 Mini (search Aliexpress) |
+| **d**  | Hotswap sockets   | 21            | Kailh hotswap sockets             |
+| &nbsp; |                   |               |                                   |
+| **e**  | Encoder knob      | 1             |                                   |
+| **f**  | Rotary encoder    | 1             | EC-11 Encoder                     |
+| &nbsp; |                   |               |                                   |
+| **g**  | Top plate         | 1             |                                   |
+| **h**  | PCB               | 1             |                                   |
+| **i**  | Bottom plate      | 1             |                                   |
+| &nbsp; |                   |               |                                   |
+| **j**  | Pro Micro         | 1             |                                   |
+| **k**  | OLED              | 1             | .91” 128px x 32px OLED (some may not work. BUY AT YOUR OWN RISK) |
 
 <br/>
 <br/>
@@ -87,24 +78,23 @@ There are some items you will need in order to build your duckboard.
 
 ![component-2](img/component_2.jpg)
 
-**l** - acrylics top plate x 1 
-
-**m** - acrylics plate x 1 
-
-**n** - acrylics boundary (small holes) x 1 
-
-**o** - acrylics boundary (big holes) x 1 
-
-**p** - acrylics bottom plate x 1 
+| Label  | Part name                       | Part quantity |
+|--------|---------------------------------|---------------|
+| **l**  | Acrylics top plate              | 1             |
+| **m**  | Acrylics plate                  | 1             |
+| **n**  | Acrylics boundary (small holes) | 1             |
+| **o**  | Acrylics boundary (big holes)   | 1             |
+| **p**  | Acrylics bottom plate           | 1             |
 
 <br/>
 <br/>
 
 ![component-3](img/component_3.jpg)
 
-**q** - M3 16mm screw  x 4 
-
-**r** - M3 pop nuts x 4 
+| Label  | Part name         | Part quantity |
+|--------|-------------------|---------------|
+| **q**  | M3 16mm screw     | 4             |
+| **r**  | M3 pop nuts       | 4             |
 
 <br/>
 <br/>
