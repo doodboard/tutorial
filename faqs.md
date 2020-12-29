@@ -2,6 +2,8 @@
 
 Please read the [main tutorial first](README.md).
 
+These FAQs are from the [doodboard Discord](https://discord.gg/UCEnxWk) by Adi.
+
 ## How do I flash my Pro Micro?
 
 Plug it in with a Micro-USB DATA CABLE (some cables just deliver power) to your computer. If it is a data cable, you should hear a sound that shows that it is connected. Navigate to the QMK toolbox and load the appropriate `.hex` file. Check the autoflash box. On the Pro Micro, short the GND and RST pads (they’re the ones next to each other) together with a metal object (tweezers or a piece of solder bent into a U shape work well) twice as fast as you can. You'll see text on the screen, and it should end with doodboard/duckboard connected.
