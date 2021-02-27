@@ -18,6 +18,8 @@ last update - 24/Dec/2020
 * [OLED](#oled)
 * [assembly](#final-assembly)
 
+You may also want to read the [FAQs](faqs.md).
+
 <br/>
 
 ## prerequisites
