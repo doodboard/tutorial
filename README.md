@@ -291,7 +291,7 @@ It should **increase/decrease** the volume, and **mute/unmute** your media playe
 
 Grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
 
-Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If necessary, push it in with a hot soldering iron as demonstrated [**here**](https://youtu.be/Av3CXxWuI28) by **Mei**.
+Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If too tight, push it in with a hot soldering iron. Do not apply excessive force or the plate might crack.
 
 Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tab** on the encoder. Manoeuvre around it. 
 
@@ -344,7 +344,7 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 
 <br/>
 
-Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
+Thank you so much for coming along this journey! R4 is planned for **JULY/AUGUST 2021**, I hope to see you guys again, **soon!**
 
 <br/><br/>
 
