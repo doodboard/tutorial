@@ -1,6 +1,6 @@
-# Build guide for R2 duckboard
+# Build guide for R2/R3 duckboard
 
-Here is a comprehensive build guide for **R2** duckboard, written by **doodboard**
+Here is a comprehensive build guide for **R2/R3** duckboard, written by **doodboard**
 <br/>
 last update - 24/Dec/2020
 
@@ -105,7 +105,7 @@ There are some items you will need in order to build your duckboard.
 
 ### Please flash and test your promicro before starting the build!
 
-You can download the **hex file** for R2 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
+You can download the **hex file** for R2/R3 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
 
 If you wish to compile your own hex file, you can grab the **source code** [**here**](https://github.com/doodboard/source-code)
 
@@ -228,7 +228,7 @@ Start working from **LED_1**. The signal line for LEDs are connected in **serial
 For example, if none of your LEDs light up, try reflowing LED_1. 
 If LED_1, 2 and 3 light up, but not 4, try reflowing LED_3 and 4 until 4 lights up.
 
-Default colour for LED is **RED** with default R2 hex file. If some of your LEDs light up in different colour, it's due to **corrupted** signal caused by bad solder joints.
+Default colour for LED is **RED** with default R2/R3 hex file. If some of your LEDs light up in different colour, it's due to **corrupted** signal caused by bad solder joints.
 If some of your LEDs work, but not in serial, so for instance LED_1, 2 and 8 light up, the same principle applies. Work on LED 2 and 3 until 3 lights up.
 
 ![promicro2](img/promicro_2.jpg)
@@ -241,7 +241,7 @@ This is the schematic of the LED wiring for reference.
 
 This is also the perfect time to test your **keypresses**. You can either plug in the switches to test the keystrokes, or manually short the hotswap sockets. 
 
-Default hex file for R2 has OLED enabled. ProMicro awaits return signal from OLED.
+Default hex file for R2/R3 has OLED enabled. ProMicro awaits return signal from OLED.
 So until the display is installed, keypresses will be **delayed**, and you'll have to hold down each keypress a little bit longer for it to register.
 
 To test without installing switches, short the **blue** circles if you have the **hotswap sockets** installed. Short the **yello** circles if you plan to solder the switches in **directly**.
