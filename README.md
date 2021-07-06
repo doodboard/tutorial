@@ -2,7 +2,7 @@
 
 Here is a comprehensive build guide for **R2/R3** duckboard, written by **doodboard**
 <br/>
-last update - 24/Dec/2020
+last update - July/6th/2021
 
 ## Table of Contents
 
