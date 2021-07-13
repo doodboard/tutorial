@@ -60,7 +60,7 @@ There are some items you will need in order to build your duckboard.
 | **b**  | M2 bolts and nuts | 4             | M2 screws and matching nuts       |
 | **b**  | Short standoffs   | 4             |                                   |
 | **b**  | Long standoffs    | 4             |                                   |
-| **c**  | LEDs              | 8             | SK6812 3545 Mini (search Aliexpress) |
+| **c**  | LEDs              | 8             | SK6812 3535 Mini (search Aliexpress) |
 | **d**  | Hotswap sockets   | 21            | Kailh hotswap sockets             |
 | &nbsp; |                   |               |                                   |
 | **e**  | Encoder knob      | 1             |                                   |
