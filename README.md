@@ -57,7 +57,8 @@ There are some items you will need in order to build your duckboard.
 | Label  | Part name         | Part quantity | Possible replacement (if needed)  |
 |--------|-------------------|---------------|-----------------------------------|
 | **a**  | Diode             | 22            | 1N4148 THT Diode                  |
-| **b**  | M2 bolts and nuts | 4             | M2 x 16mm                         |
+| **b**  | M2 16mm bolts     | 4             |                                   |
+| **b**  | M2 nuts           | 4             |                                   |
 | **b**  | Short standoffs   | 4             | h: 4mm                            |
 | **b**  | Long standoffs    | 4             | h: 6mm                            |
 | **c**  | LEDs              | 8             | SK6812 3535 Mini (search Aliexpress) |
@@ -95,7 +96,7 @@ There are some items you will need in order to build your duckboard.
 
 | Label  | Part name         | Part quantity |
 |--------|-------------------|---------------|
-| **q**  | M3 16mm screw     | 4             |
+| **q**  | M3 16mm bolt      | 4             |
 | **r**  | M3 insert nuts    | 4             |
 
 <br/>
