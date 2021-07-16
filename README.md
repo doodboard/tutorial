@@ -343,7 +343,7 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 
 [**Here**](https://i.imgur.com/bLKk2QL.jpg) is the default **keymap** for reference. 
 
-(img/component_1.jpg) Here is the pinout diagram for troubleshooting. 
+![component-1](img/pinout_1.jpg) Here is the pinout diagram for troubleshooting. 
 
 <br/>
 
