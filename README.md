@@ -105,7 +105,7 @@ There are some items you will need in order to build your duckboard.
 
 ### Please flash and test your promicro before starting the build!
 
-You can download the **hex file** for R2/R3 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_default.hex)
+You can download the **hex file** for R2/R3 duckboard [**here**](https://officialdoodboard.netlify.app/support/duckboard_R2_R3_default.hex)
 
 If you wish to compile your own hex file, you can grab the **source code** [**here**](https://github.com/doodboard/source-code)
 
