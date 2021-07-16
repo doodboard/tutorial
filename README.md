@@ -2,7 +2,7 @@
 
 Here is a comprehensive build guide for **R2/R3** duckboard, written by **doodboard**
 <br/>
-last update - 24/Dec/2020
+last update - July/6th/2021
 
 ## Table of Contents
 
@@ -57,10 +57,11 @@ There are some items you will need in order to build your duckboard.
 | Label  | Part name         | Part quantity | Possible replacement (if needed)  |
 |--------|-------------------|---------------|-----------------------------------|
 | **a**  | Diode             | 22            | 1N4148 THT Diode                  |
-| **b**  | M2 bolts and nuts | 4             | M2 screws and matching nuts       |
-| **b**  | Short standoffs   | 4             |                                   |
-| **b**  | Long standoffs    | 4             |                                   |
-| **c**  | LEDs              | 8             | SK6812 3545 Mini (search Aliexpress) |
+| **b**  | M2 16mm bolts     | 4             |                                   |
+| **b**  | M2 nuts           | 4             |                                   |
+| **b**  | Short standoffs   | 4             | h: 4mm                            |
+| **b**  | Long standoffs    | 4             | h: 6mm                            |
+| **c**  | LEDs              | 8             | SK6812 3535 Mini (search Aliexpress) |
 | **d**  | Hotswap sockets   | 21            | Kailh hotswap sockets             |
 | &nbsp; |                   |               |                                   |
 | **e**  | Encoder knob      | 1             |                                   |
@@ -95,8 +96,8 @@ There are some items you will need in order to build your duckboard.
 
 | Label  | Part name         | Part quantity |
 |--------|-------------------|---------------|
-| **q**  | M3 16mm screw     | 4             |
-| **r**  | M3 pop nuts       | 4             |
+| **q**  | M3 16mm bolt      | 4             |
+| **r**  | M3 insert nuts    | 4             |
 
 <br/>
 <br/>
@@ -291,7 +292,7 @@ It should **increase/decrease** the volume, and **mute/unmute** your media playe
 
 Grab the acrylics plate labelled "l" and "m" above, and gauge where the OLED needs to be. Solder the OLED in place. 
 
-Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If necessary, push it in with a hot soldering iron as demonstrated [**here**](https://youtu.be/Av3CXxWuI28) by **Mei**.
+Then insert 4 x popnuts to the bottom 2 plates. Be **gentle**. If too tight, push it in with a hot soldering iron. Do not apply excessive force or the plate might crack.
 
 Place the plate "m" on top of PCB. Slide the plate over the encoder. Note there is a **small metal tab** on the encoder. Manoeuvre around it. 
 
@@ -342,9 +343,11 @@ Place the bottom plate in position and screw in the 4 x M2 nuts to finish off th
 
 [**Here**](https://i.imgur.com/bLKk2QL.jpg) is the default **keymap** for reference. 
 
+![component-1](img/pinout_1.jpg) Here is the pinout diagram for troubleshooting. 
+
 <br/>
 
-Thank you so much for coming along this journey! R3 is planned for **early 2021**, I hope to see you guys again, **soon!**
+Thank you so much for coming along this journey! R4 is planned for **JULY/AUGUST 2021**, I hope to see you guys again, **soon!**
 
 <br/><br/>
 
