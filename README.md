@@ -112,6 +112,8 @@ If you wish to compile your own hex file, you can grab the **source code** [**he
 
 You can grab **QMK toolbox** from [**here**](https://github.com/qmk/qmk_toolbox)
 
+If you wish to use VIA, download the **hex file** for R2 duckboard (R3 duckboard can use R2 firmware) [**here**](https://caniusevia.com/docs/download_firmware)
+
 ![qmk_toolbox1](img/qmk_toolbox_1.jpg)
 
 1. confirm you have downloaded and opened the **right HEX file** on qmk toolbox
